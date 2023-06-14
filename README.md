@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **React , HTML , CSS , Javascript **
 
-📫 How to reach me: [Mayank singh](https://mayank-singh.netlify.app).
+  📫 How to reach me: [Portfolio](https://mayank-singh.netlify.app),.mstict16@gmail.com
 
